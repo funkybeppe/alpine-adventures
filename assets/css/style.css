@@ -62,3 +62,25 @@ h1, h2{
     width: 100%;
     background: url('https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg?cs=srgb&dl=pexels-flo-maderebner-869258.jpg&fm=jpg') no-repeat center center;
 }
+
+/* Footer */
+
+footer{
+    height: 150px;
+}
+
+.social-networks{
+    text-align: center;
+
+}
+
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
