@@ -8,7 +8,7 @@
 
 body{
     font-family: Lato, sans-serif;
-    color: #3a3a3a;
+    color: #1E3A50;
 }
 
 /* headings and logo */
@@ -17,13 +17,14 @@ h1, h2{
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color:  #1E3A50;
 }
 
 #logo{
     float: left;
     font-size: 360%;
     margin-left: 30px;
+    margin-top: 30px;
 }
 
 /* navigation links */
@@ -49,11 +50,11 @@ h1, h2{
 }
 
 #menu a:hover{
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #1E3A50;
 }
 
 .active{
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #1E3A50;
 }
 
 /* hero image */
@@ -62,6 +63,36 @@ h1, h2{
     width: 100%;
     background: url('https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg?cs=srgb&dl=pexels-flo-maderebner-869258.jpg&fm=jpg') no-repeat center center;
 }
+div #main-image{
+    display: flex;
+    justify-content: center;
+}
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+ 
+#cover-text {
+    font-size: 140%;
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+    
+    width: 400px;
+    height: 200px;
+    
+    padding-top: 40px;
+    padding-left: 10px;
+    
+    background-color: rgba( 16, 87, 119, .7);
+    
+    bottom: 100px;
+    right: 30px;
+    
+    position: absolute;
+}
+
 
 /* Footer */
 
@@ -82,5 +113,5 @@ footer{
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #1E3A50;
 }
