@@ -24,18 +24,17 @@ h1, h2{
     float: left;
     font-size: 360%;
     margin-left: 30px;
-    margin-top: 20px;
 }
 
 /* navigation links */
 
 #menu{
-    font-size: 110%;
+    font-size: 130%;
     letter-spacing: 4px;
 }
 
 #logo, #menu{
-    line-height: 100px;
+    line-height: 75px;
 }
 
 #menu li {
@@ -59,13 +58,13 @@ h1, h2{
 
 /* hero image */
 #main-image{
-    height: 1000px;
+    height: 800px;
+    background-image: url('https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg?cs=srgb&dl=pexels-flo-maderebner-869258.jpg&fm=jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     width: 100%;
-    background: url('https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg?cs=srgb&dl=pexels-flo-maderebner-869258.jpg&fm=jpg') no-repeat center center;
-}
-div #main-image{
-    display: flex;
-    justify-content: center;
+    overflow: hidden;
 }
 
 #cover-text, #cover-text h2 {
@@ -79,7 +78,7 @@ div #main-image{
     letter-spacing: 4px;
     text-align: center;
     
-    width: 400px;
+    width: 340px;
     height: 200px;
     
     padding-top: 40px;
@@ -87,7 +86,7 @@ div #main-image{
     
     background-color: rgba( 16, 87, 119, .7);
     
-    top: 180px;
+    top: 320px;
     left: 60px;
     
     position: absolute;
@@ -100,7 +99,7 @@ div #main-image{
     letter-spacing: 4px;
 
     bottom: 40px;
-    right: 60px;
+    left: 60px;
 
     position: absolute;
 }
@@ -108,10 +107,7 @@ div #main-image{
 /* Footer */
 
 footer{
-    height: 150px;
-    width: 100%;
-    background-color: rgb( 16, 87, 119,)
-
+    height: 160px;
 }
 
 .social-networks{
@@ -124,8 +120,20 @@ footer{
 }
 
 .social-networks i{
-    font-size: 200%;
+    font-size: 240%;
     margin: 1%;
     padding: 5%;
     color: #1E3A50;
+}
+
+/* about-us image */
+
+#about-image{
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    background-image: url('https://images.pexels.com/photos/3800412/pexels-photo-3800412.jpeg?cs=srgb&dl=pexels-volker-meyer-3800412.jpg&fm=jpg');
 }
