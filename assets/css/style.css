@@ -149,12 +149,13 @@ footer{
 }
 
 .signup-form{
-    margin: 150px 7% 0 0;
+    margin: 120px 5% 0 0;
     color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba( 16, 87, 119, .6);
     max-width: 400px;
     position: absolute;
-    left: 10%;
+    left: 5%;
+    top: 60px;
     padding: 30px; 
 }
 
@@ -170,7 +171,7 @@ footer{
     height: 25px;
     margin: 5px 0 20px;
     border: 1px solid #fafafa;
-    border-radius: 2px;
+    border-radius: 5px;
 }
 
 .text-input:hover{
