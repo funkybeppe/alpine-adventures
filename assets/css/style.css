@@ -131,7 +131,7 @@ footer{
 /* about-us image */
 
 #about-image{
-    height: 800px;
+    height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -148,8 +148,8 @@ footer{
     width: 70%;
     margin: 0 auto;
     text-align: center;
-    height: 400px;
-    padding-top: 30px;
+    height: 340px;
+    padding-top: 60px;
 }
 
 .description-section > p{
@@ -158,6 +158,13 @@ footer{
 }
 
 /* Lessons */
+
+#lessons-heading{
+    float: left;
+    font-size: 200%;
+    margin-left: 60px;
+    height: 150px;
+}
 
 .lessons{
     width: 100%;
