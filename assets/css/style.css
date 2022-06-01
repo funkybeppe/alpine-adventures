@@ -107,7 +107,9 @@ h1, h2{
 /* Footer */
 
 footer{
-    height: 100px;
+    height: 150px;
+    position: absolute;
+    width: 100%;
 }
 
 .social-networks{
@@ -129,7 +131,7 @@ footer{
 /* about-us image */
 
 #about-image{
-    height: 1200px;
+    height: 800px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -138,6 +140,20 @@ footer{
     background-image: url('https://images.pexels.com/photos/3800412/pexels-photo-3800412.jpeg?cs=srgb&dl=pexels-volker-meyer-3800412.jpg&fm=jpg');
 }
 
+/* about-us */
+
+.description-section{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    height: 150px;
+    padding-top: 30px;
+}
+
+.description-section > p{
+    font-size: 220%;
+    text-align: center;
+}
 /* Sign-Up form */
 
 .form-section {
