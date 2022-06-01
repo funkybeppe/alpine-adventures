@@ -140,7 +140,9 @@ footer{
     background-image: url('https://images.pexels.com/photos/3800412/pexels-photo-3800412.jpeg?cs=srgb&dl=pexels-volker-meyer-3800412.jpg&fm=jpg');
 }
 
-/* about-us */
+/* About-us */
+
+/* Description */
 
 .description-section{
     width: 70%;
@@ -153,6 +155,28 @@ footer{
 .description-section > p{
     font-size: 220%;
     text-align: center;
+}
+
+/* Lessons */
+
+.lessons{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    height: 150px;
+    padding-top: 60px;
+}
+
+#pricing{
+    background-color: rgba( 16, 87, 119, .7);
+    color: #fff;
+    font-size: 120%;
+    padding: 20px 50px 20px 50px
+}
+
+.border-top{
+    border-top: 1px solid #fff;
+    border-radius: 2px;
 }
 /* Sign-Up form */
 
