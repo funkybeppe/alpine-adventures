@@ -58,7 +58,7 @@ h1, h2{
 
 /* hero image */
 #main-image{
-    height: 1200px;
+    height: 1000px;
     background-image: url('https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg?cs=srgb&dl=pexels-flo-maderebner-869258.jpg&fm=jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -103,7 +103,31 @@ h1, h2{
 
     position: absolute;
 }
+/* Activities */
+#times{
+    background-image: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
 
+#times div {
+    color: #fafafa;
+    background-color: rgba(0,0,0, .6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+#times h2 {
+    color: #fafafa;
+}
 /* Footer */
 
 footer{
