@@ -148,7 +148,7 @@ footer{
     width: 70%;
     margin: 0 auto;
     text-align: center;
-    height: 150px;
+    height: 400px;
     padding-top: 30px;
 }
 
@@ -163,11 +163,11 @@ footer{
     width: 100%;
     margin: 0 auto;
     text-align: center;
-    height: 150px;
+    height: 400px;
     padding-top: 60px;
 }
 
-#pricing{
+#pricing-list{
     background-color: rgba( 16, 87, 119, .7);
     color: #fff;
     font-size: 120%;
