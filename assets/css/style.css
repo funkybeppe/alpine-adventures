@@ -92,42 +92,24 @@ h1, h2{
     position: absolute;
 }
 
-#image-text{
-    color: #1E3A50;
-    font-size: 280%;
-    font-family: Cairo;
-    letter-spacing: 4px;
-
-    bottom: 80px;
-    left: 60px;
-
-    position: absolute;
-}
 /* Activities */
-#times{
-    background-image: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    overflow: hidden;
+
+#activities-heading{
+    font-size: 200%;
+    margin-left: 60px;
+    margin-top: 30px;
 }
 
-#times div {
-    color: #fafafa;
-    background-color: rgba(0,0,0, .6);
-    width: 20%;
+.activities-list{
     height: 300px;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    border: 2px solid white;
-    box-sizing: border-box;
 }
 
-#times h2 {
-    color: #fafafa;
+hr {
+    border-top: 1px solid #1E3A50;
+    width: 100%;
+    margin: 5px 0;
 }
+
 /* Footer */
 
 footer{
