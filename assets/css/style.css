@@ -214,6 +214,7 @@ footer{
     border-top: 1px solid #fff;
     border-radius: 2px;
 }
+
 /* Sign-Up form */
 
 .form-section {
@@ -221,7 +222,7 @@ footer{
     background: url('https://images.pexels.com/photos/356808/pexels-photo-356808.jpeg?cs=srgb&dl=pexels-daniel-frank-356808.jpg&fm=jpg');
     background-size: cover;
     background-position: center;
-    height: 1200px;
+    height: 1000px;
 }
 
 .signup-form{
