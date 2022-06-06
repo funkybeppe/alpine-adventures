@@ -67,37 +67,40 @@ h1, h2{
     overflow: hidden;
 }
 
-#cover-text, #cover-text h2 {
-    color: #fff;
-}
- 
-#cover-text {
-    font-size: 180%;
-    font-family: Dosis;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    text-align: center;
-    
-    width: 500px;
-    height: 250px;
-    
-    padding-top: 40px;
-    padding-left: 10px;
-    
-    background-color: rgba( 16, 87, 119, .7);
-    
-    top: 320px;
+#cover-text{
+
     left: 60px;
-    
+    top: 150px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    position: absolute;
+
+}
+
+#cover-text > h2 {
+
+    color: #fff;
+    text-shadow: 2px 2px black;
+    font-size: 300%;
     position: absolute;
 }
+ 
 
 /* Activities */
 
 #activities-heading{
-    font-size: 200%;
-    margin-left: 60px;
-    margin-top: 30px;
+    height: 150px;
+    width: 100%;
+}
+
+#activities-heading > h2{
+    font-size: 300%; 
+    padding-top: 60px;
+    text-align: center;
 }
 
 .activities-list{
