@@ -179,8 +179,7 @@ footer{
     margin: 0 auto;
     text-align: center;
     height: 500px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 60px;
 }
 
 .description-section > p{
@@ -192,7 +191,7 @@ footer{
 
 #lessons-heading{
     text-align: center;
-    font-size: 200%;
+    font-size: 180%;
     height: 180px;
     padding-top: 60px;
     width: 100%;
@@ -216,6 +215,50 @@ footer{
     border-top: 1px solid #fff;
     border-radius: 2px;
 }
+
+/* Gallery */
+
+.gallery > h2{
+    font-size: 300%;
+    text-align: center;
+}
+  
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.media {
+    width: 400px;
+    height: 300px; 
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+img {
+    max-width: 100%;
+    height: auto;
+ }
+  
+  
+  
+  
+@media (max-width: 800px){
+   
+  }
+  
+@media (max-width: 600px) {
+      
+.wrapper {
+
+display: block;
+      
+ }
+  }
 
 /* Sign-Up form */
 
