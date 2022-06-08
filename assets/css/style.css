@@ -121,11 +121,12 @@ h1, h2{
     color: #1E3A50;
 }
 
-#activities-description{
-    margin-left: 30px;
-    height: 300px
-}
+#activities-list{
+    text-align: center;
+    height: 500px;
+    font-size: 150%;
 
+}
 
 hr {
     border-top: 1px solid #1E3A50;
@@ -177,8 +178,9 @@ footer{
     width: 70%;
     margin: 0 auto;
     text-align: center;
-    height: 340px;
-    padding-top: 60px;
+    height: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .description-section > p{
@@ -189,10 +191,11 @@ footer{
 /* Lessons */
 
 #lessons-heading{
-    float: left;
+    text-align: center;
     font-size: 200%;
-    margin-left: 60px;
-    height: 150px;
+    height: 180px;
+    padding-top: 60px;
+    width: 100%;
 }
 
 .lessons{
@@ -200,14 +203,13 @@ footer{
     margin: 0 auto;
     text-align: center;
     height: 400px;
-    padding-top: 60px;
 }
 
 #pricing-list{
     background-color: rgba( 16, 87, 119, .7);
     color: #fff;
     font-size: 120%;
-    padding: 20px 50px 20px 50px
+    padding: 60px;
 }
 
 .border-top{
