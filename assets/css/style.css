@@ -202,9 +202,10 @@ footer{
     width: 100%;
     margin: 0 auto;
     text-align: center;
-    height: 600px;
+    height: 540px;
     position: relative;
     background-color: rgba( 16, 87, 119, .7);
+    padding-bottom: 30px;
     
 }
 
@@ -287,6 +288,7 @@ display: block;
     background: url('https://images.pexels.com/photos/356808/pexels-photo-356808.jpeg?cs=srgb&dl=pexels-daniel-frank-356808.jpg&fm=jpg');
     background-size: cover;
     background-position: center;
+    overflow: hidden;
     height: 1000px;
 }
 
@@ -342,21 +344,27 @@ display: block;
 
 /* Where to find us */
 
+
 #contacts{
-    height: 400px;
+    height: 600px;
     width: 100%;
     text-align: center;
     font-size: 150%;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 120px;
+    position: relative;
+}
+
+#contacts > h2{
+    font-size: 180%;
 }
 
 /* Map*/
 
 #map-wrapper {
 
-    height: 400px;
-    margin-bottom: 100px;
+    height: 600px;
+    margin-bottom: 140px;
+    position: relative;
 }
 
 #map {
