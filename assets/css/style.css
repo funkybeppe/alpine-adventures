@@ -42,11 +42,9 @@ h1, h2{
 #menu{
     font-size: 130%;
     letter-spacing: 4px;
+    line-height: 100px;
 }
 
-#logo, #menu{
-    line-height: 75px;
-}
 
 #menu li {
     float: right;
@@ -98,7 +96,7 @@ h1, h2{
     color: #fff;
     text-shadow: 2px 2px black;
     font-size: 300%;
-    position: absolute;
+    float: left;
 }
  
 
@@ -257,17 +255,6 @@ footer{
 }
 
 
-
-    
-/* Clearfix (clear floats) */
-  
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-  
-
 /* Sign-Up form */
 
 .form-section {
@@ -373,8 +360,12 @@ footer{
     }
 
     .heading{
-        height: 200px;
+        height: 160px;
         width: 100%;
+    }
+
+    #cover-text{
+        margin-top: 160px;
     }
 
     .description-section{
@@ -394,14 +385,59 @@ footer{
 }
 
 
-@media (max-width: 800px) {
+@media screen and (max-width: 800px) {
     .photos{
         column-count: 2;
     }
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 610px) {
+
+    .heading{
+        height: 220px;
+        width: 100%;
+    }
+
+    #cover-text{
+
+        top: 150px;
+        width: 500px;
+        height: 300px;
+        text-align: center;
+    
+        position: absolute;
+    
+    }
+
+    .description-section {
+        height: 1000px;
+        width: 100%;
+    }
     .photos{
         column-count: 1;
+    }
+}
+
+@media screen and (max-width: 430px) {
+
+    .heading{
+        height: 240px;
+        width: 100%;
+    }
+    
+    #logo{
+        text-align: center;
+        margin: 0 auto;
+        font-size: 330%;
+        color: #fff;
+    }
+    
+    #menu {
+        font-size: 130%;
+    }
+
+    #menu li{
+        text-align: center;
+        letter-spacing: normal;
     }
 }
