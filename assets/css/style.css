@@ -242,29 +242,30 @@ footer{
     font-size: 260%;
     text-align: center;
     padding-top: 60px;
+    padding-bottom: 60px;
 }
-  
-.wrapper {
-    height: 400px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-.media {
-    width: 400px;
-    height: 400px; 
-    overflow: hidden;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
 
-img {
-    max-width: 100%;
-    height: auto;
- }
+.photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.photos img{
+    width: 100%;
+}
+
+
+
+    
+/* Clearfix (clear floats) */
+  
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
   
 
 /* Sign-Up form */
@@ -384,18 +385,23 @@ img {
     .form-section{
         width: 100%;
     }
-
-    .wrapper{
-        
+    
+    .photos{
+        column-count: 3;
     }
+
+    
 }
 
 
-@media (max-width: 600px) {
-      
-.wrapper {
+@media (max-width: 800px) {
+    .photos{
+        column-count: 2;
+    }
+}
 
-display: block;
-      
- }
-  }
+@media (max-width: 600px) {
+    .photos{
+        column-count: 1;
+    }
+}
