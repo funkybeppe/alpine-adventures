@@ -349,6 +349,8 @@ footer{
 
 /* Media Queries */
 
+/* For large to medium screens sizes from 980px wide and down */
+
 @media screen and (max-width: 980px) {
     #menu{
         clear: left;
@@ -383,6 +385,7 @@ footer{
     
 }
 
+/* For tablet to mobile screens sizes from 800px wide and down */
 
 @media screen and (max-width: 800px) {
     .photos{
@@ -419,6 +422,7 @@ footer{
     }
 }
 
+/* For mobile screens sizes from 500px wide and down */
 
 @media screen and (max-width: 500px) {
 
@@ -495,5 +499,25 @@ footer{
     #activities{
         height: 1000px;
         width: 100%;
+    }
+}
+
+/* For small mobile screens sizes from 350px wide and down */
+
+@media screen and (max-width: 350px) {
+
+    .heading{
+        height: 205px;
+        width: 100%;
+    }
+
+
+    #menu {
+        font-size: 120%;
+    }
+
+    #menu li{
+        text-align: center;
+        letter-spacing: normal;
     }
 }
