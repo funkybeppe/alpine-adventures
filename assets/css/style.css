@@ -396,11 +396,14 @@ footer{
 @media screen and (max-width: 610px) {
 
     .heading{
-        height: 220px;
+     
+        height: 210px;
         width: 100%;
     }
 
-    
+    #logo{
+        font-size: 330%;
+    }
 
     #cover-text{
 
@@ -419,6 +422,12 @@ footer{
     }
     .photos{
         column-count: 1;
+    }
+
+    .signup-form{
+        margin-top: 200px;
+        float: left;
+        font-size: 120%;
     }
 }
 
@@ -446,12 +455,22 @@ footer{
         text-align: center;
     }
 
+    #about-image{
+        height: 500px;
+        width: 100%;
+    }
+
+    .signup-form{
+        float: left;
+        font-size: 120%;
+    }
+
 }    
 
 @media screen and (max-width: 430px) {
 
     .heading{
-        height: 240px;
+        height: 220px;
         width: 100%;
     }
     
@@ -502,22 +521,51 @@ footer{
     }
 }
 
+@media screen and (max-width: 400px) {
+
+    .form-section{
+        height: 700px;
+        width: 100%;
+    }
+    
+
+    .signup-form{
+        font-size: 100%;
+    }
+
+}    
+
 /* For small mobile screens sizes from 350px wide and down */
 
 @media screen and (max-width: 350px) {
 
     .heading{
-        height: 205px;
+        height: 220px;
         width: 100%;
     }
 
 
     #menu {
-        font-size: 120%;
+        font-size: 110%;
     }
 
     #menu li{
         text-align: center;
         letter-spacing: normal;
     }
+
+    #pricing-list{
+        color: #fff;
+        font-size: 110%;
+        height: 500px;
+        padding: 0;
+    }
+
+    footer{
+        height: 160px;
+        width: 100%;
+        padding-top: 30px;
+    }
+
+
 }
