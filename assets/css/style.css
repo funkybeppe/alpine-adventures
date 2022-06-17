@@ -68,7 +68,7 @@ h1, h2{
 /* hero image */
 
 #main-image{
-    height: 800px;
+    height: 1000px;
     background-image: url('https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg?cs=srgb&dl=pexels-flo-maderebner-869258.jpg&fm=jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -351,6 +351,15 @@ footer{
 
 /* Media Queries */
 
+/* For large to screens sizes from  1200px wide down */
+
+@media screen and (max-width: 1200px) {
+
+    #main-image{
+        height: 800px;
+    }
+}
+
 /* For large to medium screens sizes from 980px wide and down */
 
 @media screen and (max-width: 980px) {
@@ -438,11 +447,7 @@ footer{
 
 @media screen and (max-width: 500px) {
 
-    #main-image{
-        height: 800px;
-        width: 100%;
-        overflow: hidden;
-    }
+    
 
     #cover-text{
         width: 100%;
