@@ -351,9 +351,9 @@ footer{
 
 /* Media Queries */
 
-/* For large to screens sizes from  1200px wide down */
+/* For large to screens sizes from  1400px wide down */
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1400px) {
 
     #main-image{
         height: 800px;
