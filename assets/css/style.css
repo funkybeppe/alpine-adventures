@@ -211,6 +211,7 @@ footer{
     font-size: 120%;
     padding: 30px 30px 0 30px;
     height: 500px;
+    width: 100%;
 }
 
 .border-top{
@@ -338,6 +339,7 @@ footer{
     height: 600px;
     margin-bottom: 140px;
     position: relative;
+    width: 100%;
 }
 
 #map {
@@ -428,6 +430,7 @@ footer{
         margin-top: 200px;
         float: left;
         font-size: 120%;
+        left: 40px;
     }
 }
 
@@ -463,6 +466,9 @@ footer{
     .signup-form{
         float: left;
         font-size: 120%;
+        margin-left: 0px;
+        margin-right: 0px;
+        left: 0;
     }
 
 }    
@@ -554,11 +560,22 @@ footer{
         letter-spacing: normal;
     }
 
+    #cover-text {
+        margin-top: 120px;
+    }
+
+    #lessons-heading{
+        padding-top: 160px;
+    }
     #pricing-list{
         color: #fff;
         font-size: 110%;
         height: 500px;
         padding: 0;
+    }
+
+    .photos > img{
+        height: 300px;
     }
 
     footer{
