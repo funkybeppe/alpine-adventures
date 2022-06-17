@@ -546,13 +546,17 @@ footer{
 @media screen and (max-width: 350px) {
 
     .heading{
-        height: 220px;
+        height: 180px;
         width: 100%;
+    }
+
+    #logo{
+        font-size: 260%;
     }
 
 
     #menu {
-        font-size: 110%;
+        font-size: 100%;
     }
 
     #menu li{
@@ -561,7 +565,7 @@ footer{
     }
 
     #cover-text {
-        margin-top: 120px;
+        margin-top: 80px;
     }
 
     #lessons-heading{
