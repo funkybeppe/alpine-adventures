@@ -476,6 +476,17 @@ footer{
         left: 0;
     }
 
+    #pricing-list {
+        font-size: medium;
+    }
+
+    .contact-btn{
+        border-radius: 2px;
+        padding: 5px 14px 5px 14px;
+        font-size: 120%;
+        
+    }
+
 }    
 
 @media screen and (max-width: 430px) {
@@ -493,7 +504,7 @@ footer{
     }
     
     #menu {
-        font-size: 130%;
+        font-size: 110%;
     }
 
     #menu li{
@@ -544,6 +555,17 @@ footer{
         font-size: 100%;
     }
 
+    #pricing-list{
+        font-size: small;
+    }
+
+    .contact-btn{
+        border-radius: 2px;
+        padding: 2px 7px 2px 7px;
+        font-size: 100%;
+        
+    }
+
 }    
 
 /* For small mobile screens sizes from 350px wide and down */
@@ -561,7 +583,7 @@ footer{
 
 
     #menu {
-        font-size: 100%;
+        font-size: 90%;
     }
 
     #menu li{
@@ -578,7 +600,7 @@ footer{
     }
     #pricing-list{
         color: #fff;
-        font-size: 110%;
+        font-size: small;
         height: 500px;
         padding: 0;
     }
