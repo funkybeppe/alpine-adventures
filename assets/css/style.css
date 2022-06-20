@@ -68,13 +68,15 @@ h1, h2{
 /* hero image */
 
 #main-image{
-    height: 1000px;
-    background-image: url('https://images.pexels.com/photos/869258/pexels-photo-869258.jpeg?cs=srgb&dl=pexels-flo-maderebner-869258.jpg&fm=jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    height: 800px;
     width: 100%;
     overflow: hidden;
+} 
+
+#main-image > img{
+    object-fit: cover;
+    height: 800px;
+    width: 100%;
 }
 
 #cover-text{
@@ -158,13 +160,15 @@ footer{
 /* about-us image */
 
 #about-image{
-    height: 600px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    height: 800px;
     width: 100%;
     overflow: hidden;
-    background-image: url('https://images.pexels.com/photos/3800412/pexels-photo-3800412.jpeg?cs=srgb&dl=pexels-volker-meyer-3800412.jpg&fm=jpg');
+}
+
+#about-image > img{
+    object-fit: cover;
+    height: 800px;
+    width: 100%;
 }
 
 /* About-us */
@@ -530,6 +534,12 @@ footer{
         height: 600px;
         width: 100%;
         overflow: hidden;
+    }
+
+    #main-image > img{
+        object-fit: cover;
+        height: 600px;
+        width: 100%;
     }
 
     #activities-heading{
