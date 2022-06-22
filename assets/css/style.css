@@ -377,13 +377,9 @@ footer{
     }
 
     .photos{
-        column-count: 4;
+        column-count: 3;
     }
 
-    .photos > img{
-        height: 300px; 
-        width: 300px;
-    }
 }
 
 /* For large to medium screens sizes from 980px wide and down */
@@ -411,7 +407,10 @@ footer{
         width: 100%;
     }
     
-    
+    .photos{
+        column-count: 2;
+    }
+
 
     
 }
@@ -421,17 +420,10 @@ footer{
 @media screen and (max-width: 800px) {
 
     .description-section{
-        height: 700px;
+        height: 750px;
     }
 
-    .photos{
-        column-count: 2;
-    }
-
-    .photos > img{
-        height: 300px; 
-        width: 300px;
-    }
+    
 }
 
 @media screen and (max-width: 610px) {
@@ -459,7 +451,7 @@ footer{
 
     .description-section {
         height: 800px;
-        width: 70%;
+        width: 80%;
     }
     .photos{
         column-count: 1;
@@ -599,6 +591,11 @@ footer{
         font-size: 100%;
     }
 
+    .description-section{
+        width: 95%;
+    }
+
+
     #pricing-list{
         font-size: small;
     }
@@ -608,10 +605,6 @@ footer{
         padding: 2px 7px 2px 7px;
         font-size: 100%;
         
-    }
-
-    .photos > img{
-        height: 350px;
     }
 
 }    
@@ -646,6 +639,7 @@ footer{
 
     .description-section{
         height: 1000px;
+        width: 97%;
     }
 
     #lessons-heading{
@@ -659,7 +653,7 @@ footer{
     }
 
     .photos > img{
-        height: 300px;
+        height: 350px;
     }
 
     footer{
