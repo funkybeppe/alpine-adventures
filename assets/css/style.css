@@ -179,12 +179,20 @@ footer{
     width: 70%;
     margin: 0 auto;
     text-align: center;
-    height: 500px;
+    height: 600px;
     padding-top: 60px;
 }
 
+#description-heading{
+    text-align: center;
+    font-size: 180%;
+    height: 100px;
+    width: 100%;
+    position: relative
+}
+
 .description-section > p{
-    font-size: 200%;
+    font-size: 180%;
     text-align: center;
 }
 
@@ -193,8 +201,8 @@ footer{
 #lessons-heading{
     text-align: center;
     font-size: 180%;
-    height: 180px;
-    padding-top: 60px;
+    height: 160px;
+    padding-top: 80px;
     width: 100%;
     position: relative
 }
@@ -263,12 +271,17 @@ footer{
 
 .form-section {
     clear: left;
-    background: url('https://images.pexels.com/photos/356808/pexels-photo-356808.jpeg?cs=srgb&dl=pexels-daniel-frank-356808.jpg&fm=jpg');
-    background-size: cover;
-    background-position: center;
     overflow: hidden;
-    height: 1000px;
+    height: 800px;
 }
+
+.form-section > img{
+    object-fit: cover;
+    height: 800px;
+    width: 100%;
+}
+
+
 
 .signup-form{
     margin: 120px 5% 0 0;
@@ -328,7 +341,7 @@ footer{
     width: 100%;
     text-align: center;
     font-size: 150%;
-    padding-top: 120px;
+    padding-top: 80px;
     position: relative;
 }
 
@@ -362,6 +375,15 @@ footer{
     #main-image{
         height: 800px;
     }
+
+    .photos{
+        column-count: 4;
+    }
+
+    .photos > img{
+        height: 300px; 
+        width: 300px;
+    }
 }
 
 /* For large to medium screens sizes from 980px wide and down */
@@ -384,18 +406,12 @@ footer{
         margin-top: 160px;
     }
 
-    .description-section{
-        height: 700px;
-        width: 100%;
-    }
 
     .form-section{
         width: 100%;
     }
     
-    .photos{
-        column-count: 3;
-    }
+    
 
     
 }
@@ -403,8 +419,18 @@ footer{
 /* For tablet to mobile screens sizes from 800px wide and down */
 
 @media screen and (max-width: 800px) {
+
+    .description-section{
+        height: 700px;
+    }
+
     .photos{
         column-count: 2;
+    }
+
+    .photos > img{
+        height: 300px; 
+        width: 300px;
     }
 }
 
@@ -432,8 +458,8 @@ footer{
     }
 
     .description-section {
-        height: 1000px;
-        width: 100%;
+        height: 800px;
+        width: 70%;
     }
     .photos{
         column-count: 1;
@@ -449,7 +475,7 @@ footer{
 
 /* For mobile screens sizes from 500px wide and down */
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 520px) {
 
     
 
@@ -470,6 +496,10 @@ footer{
     #about-image{
         height: 500px;
         width: 100%;
+    }
+
+    .description-section{
+        height: 950px;
     }
 
     .signup-form{
@@ -551,6 +581,10 @@ footer{
         height: 1000px;
         width: 100%;
     }
+
+    .description-section{
+        width: 90%;
+    }
 }
 
 @media screen and (max-width: 400px) {
@@ -574,6 +608,10 @@ footer{
         padding: 2px 7px 2px 7px;
         font-size: 100%;
         
+    }
+
+    .photos > img{
+        height: 350px;
     }
 
 }    
@@ -603,6 +641,11 @@ footer{
 
     #cover-text {
         margin-top: 80px;
+    }
+
+
+    .description-section{
+        height: 1000px;
     }
 
     #lessons-heading{
