@@ -11,6 +11,7 @@
     <title>Alpine Adventures</title>
 </head>
 <body>
+
     <header>
         <div class="heading">
         <a href="index.html">
@@ -32,9 +33,17 @@
         </nav>
         </div>
     </header>
+
     <section class="form-section">
 
-        <img src="assets/css/images/signup-image.jpg" alt="Girl holding someone's hand on a mountain terrace">
+        <picture id="contact-picture">
+
+            <source type="image/webp" srcset="assets/css/images/signup-image.webp">
+            <source type="image/jpeg" srcset="assets/css/images/signup-image.jpg">
+            <img src="assets/css/images/signup-image.jpg" alt="Girl holding someone's hand on a mountain terrace">
+
+        </picture>
+
         <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
             
             <h2>Join our Club <i class="fa-solid fa-person-skiing"></i></h2>

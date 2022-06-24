@@ -73,7 +73,7 @@ h1, h2{
     overflow: hidden;
 } 
 
-#main-image > img{
+#index-picture > img{
     object-fit: cover;
     height: 800px;
     width: 100%;
@@ -165,7 +165,7 @@ footer{
     overflow: hidden;
 }
 
-#about-image > img{
+#about-picture > img{
     object-fit: cover;
     height: 800px;
     width: 100%;
@@ -275,7 +275,7 @@ footer{
     height: 800px;
 }
 
-.form-section > img{
+#contact-picture > img{
     object-fit: cover;
     height: 800px;
     width: 100%;
