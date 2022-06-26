@@ -13,3 +13,10 @@ This site is targeted towards parents of children and adults who want to learn h
 
 ## Features
 
+* Navigation
+  * Featured at the top of the page, the navigation shows the name of the club in the left corner: ALPINE ADVENTURES that links to the top of the page.
+  * The other navigation links are on the right: Home, About Us and Sign Up, all linking to different pages.
+  * The navigation is in a off white color that contrasts with the background.
+  * The navigation clearly tells the name of the club and website and makes the navigation to the other pages easy.
+
+![Screenshot 2022-06-26 at 21 45 23](https://user-images.githubusercontent.com/105980082/175833216-dda633b1-d39e-4eb8-8727-717487e98cfd.png)
