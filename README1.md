@@ -1,4 +1,4 @@
-# Alpine-Adventures
+# Alpine Adventures
 
 The Alpine Adventures is a landing page for beginners and intermediate mountain passionates looking for a fun way to learn how to ski or snowboard.
 The Alpine Adventures mountain club offers activities such as skiing, snowboarding and hiking. Recommended minimum age of 8 years old.
@@ -14,6 +14,7 @@ This site is targeted towards parents of children and adults who want to learn h
 ## Features
 
 * Navigation
+
   * Featured at the top of the page, the navigation shows the name of the club in the left corner: ALPINE ADVENTURES that links to the top of the page.
   * The other navigation links are on the right: Home, About Us and Sign Up, all linking to different pages.
   * The navigation is in a off white color that contrasts with the background.
