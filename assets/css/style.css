@@ -65,6 +65,12 @@ h1, h2{
     border-bottom: 1px solid #fff;
 }
 
+hr {
+    border-top: 1px solid #1E3A50;
+    width: 100%;
+    margin: 5px 0;
+}
+
 /* hero image */
 
 #main-image{
@@ -104,7 +110,7 @@ h1, h2{
 /* Activities */
 
 #activities{
-    height: 600px;
+    height: 800px;
     width: 100%;
 }
 #activities-heading{
@@ -113,7 +119,7 @@ h1, h2{
 }
 
 #activities-heading > h2{
-    font-size: 220%; 
+    font-size: 260%; 
     padding-top: 60px;
     padding-bottom: 60px;
     text-align: center;
@@ -122,16 +128,11 @@ h1, h2{
 
 #activities-list{
     text-align: center;
-    height: 500px;
-    font-size: 120%;
-
+    height: 600px;
+    font-size: 140%;
 }
 
-hr {
-    border-top: 1px solid #1E3A50;
-    width: 100%;
-    margin: 5px 0;
-}
+
 
 /* Footer */
 
@@ -449,6 +450,14 @@ footer{
     
     }
 
+    #activities{
+        height: 1000px;
+    }
+
+    #activities-list{
+        padding-top: 60px;
+    }
+
     .description-section {
         height: 800px;
         width: 80%;
@@ -485,8 +494,21 @@ footer{
         text-align: center;
     }
 
+    #activities{
+        height: 1200px;
+    }
+
+    #activities-heading > h2{
+        font-size: 220%; 
+    }
+    
     #about-image{
-        height: 500px;
+        height: 650px;
+        width: 100%;
+    }
+
+    #contact-picture{
+        height: 650px;
         width: 100%;
     }
 
@@ -553,25 +575,24 @@ footer{
     }
 
     #main-image{
-        height: 600px;
+        height: 650px;
         width: 100%;
         overflow: hidden;
     }
 
     #main-image > img{
         object-fit: cover;
-        height: 600px;
+        height: 650px;
         width: 100%;
     }
 
     #activities-heading{
-        height: 260px;
+        height: 180px;
         width: 100%;
     }
 
-    #activities{
-        height: 1000px;
-        width: 100%;
+    #activities-list{
+        height: 800px;
     }
 
     .description-section{
@@ -638,7 +659,7 @@ footer{
 
 
     .description-section{
-        height: 1000px;
+        height: 1100px;
         width: 97%;
     }
 
