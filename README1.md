@@ -21,3 +21,12 @@ This site is targeted towards parents of children and adults who want to learn h
   * The navigation clearly tells the name of the club and website and makes the navigation to the other pages easy.
 
 ![Screenshot 2022-06-26 at 21 45 23](https://user-images.githubusercontent.com/105980082/175833216-dda633b1-d39e-4eb8-8727-717487e98cfd.png)
+
+* The Header
+
+  * The header shows the main activities of the club, using a white text with shadow to increase the contrast with the background.
+  * This section provides the user with clear information about what the site is.
+
+
+![Screenshot 2022-06-26 at 21 55 06](https://user-images.githubusercontent.com/105980082/175833495-c9ae2740-f68b-4c0f-814c-eab1bdb922d5.png)
+
