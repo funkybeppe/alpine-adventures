@@ -8,4 +8,8 @@ This site is targeted towards parents of children and adults who want to learn h
 
 
 
+
 ![Screenshot 2022-06-26 at 21 30 07 copy](https://user-images.githubusercontent.com/105980082/175832810-0820281a-628f-417c-8118-ae5429c5f6b8.png)
+
+## Features
+
