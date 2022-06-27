@@ -122,7 +122,7 @@ The live link can be found here - [Alpine Adventure](https://funkybeppe.github.i
 
 ## Content
 
-* The code to make the navigation was partially taken from the CI [Love Running](https://funkybeppe.github.io/love-running/) Project.
+* The code to make the navigation and sign up form style were partially taken from the CI [Love Running](https://funkybeppe.github.io/love-running/) Project.
 
 ## Media
 
