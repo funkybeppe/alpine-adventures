@@ -108,6 +108,7 @@ This site is targeted towards parents of children and adults who want to learn h
 ## Unfixed Bugs
 No unfixed bugs
 
+
 # Deployment
 
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
