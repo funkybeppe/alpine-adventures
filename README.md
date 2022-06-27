@@ -99,7 +99,7 @@ This site is targeted towards parents of children and adults who want to learn h
 
 ### About Us
 
-
+![Screenshot 2022-06-27 at 13 04 19](https://user-images.githubusercontent.com/105980082/175937331-517cf6a2-7add-441a-b6c5-477285341df9.png)
 
 ### Sign Up
 
