@@ -553,6 +553,7 @@ footer{
     
     #menu {
         font-size: 110%;
+        width: 70%;
     }
 
     #menu li{
@@ -602,6 +603,15 @@ footer{
 
 @media screen and (max-width: 400px) {
 
+    #menu {
+        font-size: 100%;
+    }
+
+    #menu li{
+        text-align: center;
+        letter-spacing: normal;
+    }
+
     .form-section{
         height: 700px;
         width: 100%;
@@ -649,8 +659,10 @@ footer{
     }
 
     #menu li{
+
         text-align: center;
         letter-spacing: normal;
+        
     }
 
     #cover-text {
@@ -685,3 +697,17 @@ footer{
 
 
 }
+
+/* For small mobile screens sizes from 325px wide and down */
+
+
+@media screen and (max-width: 325px) {
+
+    #menu {
+        font-size: 80%;
+        width: 70%;
+    }
+
+
+}
+
