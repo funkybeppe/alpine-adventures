@@ -76,7 +76,12 @@ This site is targeted towards parents of children and adults who want to learn h
 
 ## Bugs
 
-* No bugs where found at the time of deployment, just typing errors all corrected in the end.
+* A broken link was found for the "Contact Us" button due to a typing error: I previously changed the name of the page and did not rename the button link.
+
+![Screenshot 2022-06-29 at 09 58 43](https://user-images.githubusercontent.com/105980082/176397120-6935da6c-6522-48d6-b722-28dd916b5954.png)
+
+![Screenshot 2022-06-29 at 10 01 34](https://user-images.githubusercontent.com/105980082/176397401-5a95939d-8ba5-489c-bc99-6f314d4683b4.png)
+
 
 ## Validator Testing
 
