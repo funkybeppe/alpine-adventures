@@ -112,23 +112,23 @@ Due to no JavaScript functionality, the contact forms will not store data or sen
 
 ## Technologies
 
-* [HTML]
+* HTML
   * This project uses HTML as the main language used to complete the structure of the Website.
-* [CSS]
+* CSS
   * This project uses custom written CSS to style the Website.
-* [Font Awesome]
+* [Font Awesome](https://fontawesome.com/)
   * Font awesome Icons are used for the Social media links contained in the Footer section of the website, in the home page next to the activities and in the form page.
-* [Google Fonts]
+* [Google Fonts](https://fonts.google.com/)
   * Google fonts are used throughout the project to import the Dosis and Cairo fonts.
-* [Visual Studio Code]
+* [Visual Studio Code](https://code.visualstudio.com/)
   * VS Code is the Integrated Development Environment used to develop the Website.
-* [GitHub]
+* [GitHub](https://github.com/)
   * GithHub is the hosting site used to store the source code for the Website and Git Pages is used for the deployment of the live site.
-* [Git]
+* [Git](https://git-scm.com/)
   * Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
-* [Google Chrome Developer Tools]
+* [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/)
   * Google chromes built in developer tools are used to inspect page elements and help debug issues with the site layout and test different CSS styles.
-* [CSS Generator]
+* [CSS Generator](https://webcode.tools/generators/css)
   * This was used to convert the RGBA colour for the site to Hex.
 * [Favicon](https://favicon.io/)
   * Favicon.io was used to make the site favicon
