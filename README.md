@@ -110,6 +110,29 @@ Due to no JavaScript functionality, the contact forms will not store data or sen
 * A live page for events, with videos and images.
 * WhatsApp widget for easier end-to-end comunication and live chat.
 
+## Technologies
+
+* HTML
+  * This project uses HTML as the main language used to complete the structure of the Website.
+* CSS
+  * This project uses custom written CSS to style the Website.
+* Font Awesome
+  * Font awesome Icons are used for the Social media links contained in the Footer section of the website, in the home page next to the activities and in the form page.
+* Google Fonts
+  * Google fonts are used throughout the project to import the Dosis and Cairo fonts.
+* Visual Studio Code
+  * VS Code is the Integrated Development Environment used to develop the Website.
+* GitHub
+  * GithHub is the hosting site used to store the source code for the Website and Git Pages is used for the deployment of the live site.
+* Git
+  * Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
+* Google Chrome Developer Tools
+  * Google chromes built in developer tools are used to inspect page elements and help debug issues with the site layout and test different CSS styles.
+* CSS Generator
+  * This was used to convert the RGBA colour for the site to Hex.
+* Favicon
+  * Favicon.io was used to make the site favicon
+
 ## Testing
 
 * I tested that this website works in different browsers: Chrome, Firefox and Safari.
