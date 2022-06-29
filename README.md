@@ -1,4 +1,14 @@
-# Alpine Adventures
+# Milestone Project 1
+
+## Purpose
+
+This Website was created for the sole purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. It was built using the knowledge gained from the HTML, CSS and User Centric Design modules. A full list of technologies used can be found in the technologies section of this document.
+
+## Alpine Adventures Responsive Website
+
+The Alpine Adventures website is designed for a fictional ski club based in Sestrieres, Italy.
+I came up with this idea as I am a certified Alpine ski instructor and I previously worked for a ski school in Italy.
+I wanted to combine the ski world with the web develpoment one by creating a website, using the tecnical knoledge from my personal experience.
 
 The Alpine Adventures is a landing page for beginners and intermediate mountain passionates looking for a fun way to learn how to ski or snowboard.
 The Alpine Adventures mountain club offers activities such as skiing, snowboarding and hiking. Recommended minimum age of 8 years old.
@@ -7,9 +17,20 @@ Users of this website will be able to find all the information they need to know
 This site is targeted towards parents of children and adults who want to learn how to ski.
 
 
-
-
 ![Screenshot 2022-06-26 at 21 30 07 copy](https://user-images.githubusercontent.com/105980082/175832810-0820281a-628f-417c-8118-ae5429c5f6b8.png)
+
+## User Experience Design
+
+### First Time Visitor Goals
+* As a First Time user, I want to easily understand the main purpose of the site and learn more about the club.
+* As a First Time user, I want to be able to easily navigate throughout the site to find content.
+* As a First Time user, I want to view the website and content clearly on my mobile device.
+* As a First Time user, I want to find ways to follow Alpine Adventures on different social media platforms.
+
+### Returning Visitor Goals
+* As a Returning user, I want to contact the organisation so I can request more information.
+
+
 
 ## Features
 
