@@ -30,6 +30,23 @@ This site is targeted towards parents of children and adults who want to learn h
 ### Returning Visitor Goals
 * As a Returning user, I want to contact the organisation so I can request more information.
 
+## Design
+
+### Colour Scheme
+
+The three main colours used are Navy Blue #1E3A50, mainly used for body and buttons, a Off White #fff for headings and body where more contrast with the light blue shade was needed, and the Light Blue shade rgba( 16, 87, 119, .7). The Navy Blue and Off White shades should compliment each other without being over powering to the eyes.
+
+### Typography
+
+The headers on all pages throughout the Website are using the Dosis font while the main text is using the Cairo font.
+
+### Images
+
+The images were all taken from [Pexels](https://www.pexels.com/).
+
+### Limitations
+
+Due to no JavaScript functionality, the contact forms will not store data or send email requests.
 
 
 ## Features
@@ -87,6 +104,11 @@ This site is targeted towards parents of children and adults who want to learn h
 ![Screenshot 2022-06-27 at 11 00 00](https://user-images.githubusercontent.com/105980082/175916201-5c8b92c9-b016-4fa7-a58d-d67eb1bf617f.png)
 
 ![Screenshot 2022-06-27 at 11 04 20](https://user-images.githubusercontent.com/105980082/175917017-bd4126c9-824a-484a-98f5-8fa70aac35b6.png)
+
+## Features to implement
+
+* A live page for events, with videos and images.
+* WhatsApp widget for easier end-to-end comunication and live chat.
 
 ## Testing
 
@@ -153,4 +175,4 @@ The live link can be found here - [Alpine Adventure](https://funkybeppe.github.i
 
 ## Media
 
-* The images were all taken from [Pexels](https://www.pexels.com/)
+* [Pexels](https://www.pexels.com/)
