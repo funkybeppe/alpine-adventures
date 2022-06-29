@@ -135,10 +135,31 @@ Due to no JavaScript functionality, the contact forms will not store data or sen
 
 ## Testing
 
-* I tested that this website works in different browsers: Chrome, Firefox and Safari.
-* I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
-* I confirmed that the navigation, header, about us, sign up pages are all readable and easy to understand.
-* I have confirmed that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works.
+### Summary
+
+Testing is required on MilestoneProject 1 – Alpine Adventures Responsive Website.
+
+As this project is static and contains no back-end functionality, the testing performed will be on the visual effects and layout of the Website. Testing to be done on at least three web browsers and all screen sizes.
+
+No elements should overlap another container div. All elements should remain on the screen at all sizes above 300px.
+
+All nav links should direct to the correct html pages as per their names. The Home page is the exception, this one will redirect to index.html.
+
+All links to external websites must open in a new browser.
+
+Testing of form validation will also be required to ensure the correct inputs are taken and that all fields are required.
+
+The live Project can be found [here](https://funkybeppe.github.io/Alpine-Adventures/)
+
+### Tests Performed
+
+* Test responsiveness of website on all screen sizes on chrome browser
+* Test responsiveness of website on all screen sizes on safari browser
+* Test responsiveness of website on all screen sizes on firefox browser
+* Validate navigation list items navigate to the correct pages
+* Validate form inputs on sign-up.html: name, surname, email
+* Validate hover color change on buttons
+* Validate social links open in a new window
 
 ## Bugs
 
