@@ -232,5 +232,6 @@ The contet of this website was created by Luca Barbero
 
 ## Acknowledgements
 
-I'd like to thank my mentor Ronan McLelland for his guidance throughout my project.
+I would like to thank my mentor Ronan McLelland for his guidance throughout my project.
+
 Thanks to my partner Jessica for the help with the wording and style tips.
