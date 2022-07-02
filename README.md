@@ -161,6 +161,11 @@ The live Project can be found [here](https://funkybeppe.github.io/Alpine-Adventu
 * Validate hover color change on buttons
 * Validate social links open in a new window
 
+### Tests Results
+
+![Screenshot 2022-07-02 at 13 51 51](https://user-images.githubusercontent.com/105980082/177001572-23f453a5-0729-41b0-867b-e2cdceedff7b.png)
+
+
 ## Bugs
 
 * A broken link was found for the "Contact Us" button due to a typing error: I previously changed the name of the page and did not rename the button link.
