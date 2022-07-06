@@ -180,7 +180,7 @@ footer{
     width: 70%;
     margin: 0 auto;
     text-align: center;
-    height: 800px;
+    height: 740px;
     padding-top: 60px;
 }
 
@@ -200,15 +200,15 @@ footer{
 /* Video */
 
 #container{
-    height: 500px;
+    height: 600px; 
     width: 100%;
     display: flex;
     justify-content: center;
 }
 
 #ski-video{
-    height: 400px;
-    width: 600px; 
+    height: 600px;
+    width: 1000px; 
 }
 
 /* Lessons */
@@ -217,7 +217,7 @@ footer{
     text-align: center;
     font-size: 180%;
     height: 160px;
-    padding-top: 80px;
+    padding-top: 140px;
     width: 100%;
     position: relative
 }
@@ -475,6 +475,15 @@ footer{
     .description-section {
         height: 1000px;
         width: 80%;
+    }
+
+    #container{
+        height: 400px; 
+       
+    }
+    
+    #ski-video{
+        height: 400px; 
     }
     .photos{
         column-count: 1;
