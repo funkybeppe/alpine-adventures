@@ -208,11 +208,62 @@ No unfixed bugs
 
 # Deployment
 
-* The site was deployed to GitHub pages. The steps to deploy are as follows:
+## How this Project was Deployed
 
-  * In the GitHub repository, navigate to the Settings tab
-  * Select the Pages category, then select Main Branch
-  * Once the main branch has been selected, the page provided the link to the completed website.
+This project was deployed to GitHub pages via the following steps:
+
+1. Log into [GitHub](https://github.com/).
+2. From the list of Repositories, select [funkybeppe/Alpine-Adventures](https://github.com/funkybeppe/Alpine-Adventures).
+3. From the Repositories sub-headings, select "Settings".
+4. Under "Options", the first category of settings, scroll down to the GitHub Pages section.
+5. From the dropdown list under the "Source" heading, select "master".
+6. A second drop-down menu that appears should remain as the default value, "/root".
+7. Press Save.
+8. On Page refresh, scroll back down to the GitHub Pages section, and the link to the deployed site will be available in a green sub-section with a tick icon next to it.
+
+As this project was developed on the master branch, all changes made to the repository are immediately reflected in the deployed project.
+
+## How to Run this Project in your Browser
+
+1. Install the [Google Chrome](https://chromeenterprise.google/browser/download/?utm_source=adwords&utm_medium=cpc&utm_campaign=2022-H2-chromebrowser-paidmed-paiddisplay-other-chromebrowserent&utm_term=downloadnow-chrome-browser-download&utm_content=GCEJ&brand=GCEJ&gclid=Cj0KCQjw5ZSWBhCVARIsALERCvwHf3K6FKwJPxkKn9LoTnagBXc5if8G5pGtdPFqiEpWkitiHE92AD8aAmXKEALw_wcB&gclsrc=aw.ds#windows-tab) or [Firefox browser](https://www.mozilla.org/it/firefox/new/).
+2. Install the applicable [GitPod](https://gitpod.io/) Browser Extensions for your chosen browser.
+3. Create a [GitHub](https://github.com/) account.
+4. Log in to [Gitpod](https://gitpod.io/) using your GitHub account.
+5. Visit Alpine Adventures's [GitHub Repository](https://github.com/funkybeppe/Alpine-Adventures).
+6. Open the repository in Gitpod:
+  * Click the green "Gitpod" icon at the top of the Repository, or
+  * Click this [link](https://funkybeppe.github.io/Alpine-Adventures/).
+7. A new workspace will open with the current state of the master branch. Any changes made to the master branch after this point will not be automatically updated in your Gitpod Workspace.
+
+
+## How to Run this Project Locally
+
+### Cloning the Repository
+
+1. Visit Alpine-Adventures's [GitHub Repository](https://github.com/funkybeppe/Alpine-Adventures).
+2. Click the "Code" dropdown box above the repository's file explorer.
+3. Under the "Clone" heading, click the "HTTPS" sub-heading.
+4. Click the clipboard icon, or manually copy the text presented: <mark>https://GitHub.com/funkybeppe/Alpine-Adventures.git</mark>
+5. Open your preferred IDE (VSCode, Atom, PyCharm, etc).
+6. Ensure your IDE has support for Git, or has the relevant Git extension.
+7. Open the terminal, and create a directory where you would like the Repository to be stored.
+8. Type <mark>git clone</mark> and paste the previously copied text <mark>(https://GitHub.com/funkybeppe/Alpine-Adventures.git)</mark> and press enter.
+9. The Repository will then be cloned to your selected directory.
+
+
+### Manually Downloading the Repository
+
+1. Visit Alpine-Adventures's [GitHub Repository](https://github.com/funkybeppe/Alpine-Adventures).
+2. Click the "Code" dropdown box above the repository's file explorer.
+3. Click the "Download ZIP" option; this will download a copy of the selected branch's repository as a zip file.
+4. Locate the ZIP file downloaded to your computer, and extract the ZIP to a designated folder which you would like the repository to be stored.
+
+
+### Opening the Repository
+
+1. Open your preferred IDE (VSCode, Atom, PyCharm, etc).
+2. Navigate to the chosen directory where the Repository was Cloned/Extracted.
+3. You will now have offline access to the contents of the project.
 
 The live link can be found here - [Alpine Adventure](https://funkybeppe.github.io/Alpine-Adventures/)
 
@@ -220,7 +271,7 @@ The live link can be found here - [Alpine Adventure](https://funkybeppe.github.i
 
 ## Content
 
-The contet of this website was created by Luca Barbero
+The content of this website was created by Luca Barbero
 
 ## Code
 
