@@ -197,6 +197,20 @@ footer{
     text-align: center;
 }
 
+/* Video */
+
+#container{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#ski-video{
+    height: 400px;
+    width: 600px; 
+}
+
 /* Lessons */
 
 #lessons-heading{
