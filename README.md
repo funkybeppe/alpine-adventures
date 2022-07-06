@@ -247,7 +247,7 @@ As this project was developed on the master branch, all changes made to the repo
 5. Open your preferred IDE (VSCode, Atom, PyCharm, etc).
 6. Ensure your IDE has support for Git, or has the relevant Git extension.
 7. Open the terminal, and create a directory where you would like the Repository to be stored.
-8. Type <mark>git clone</mark> and paste the previously copied text <mark>(https://GitHub.com/funkybeppe/Alpine-Adventures.git)</mark> and press enter.
+8. Type <mark>git clone</mark> and paste the previously copied text <mark>https://GitHub.com/funkybeppe/Alpine-Adventures.git</mark> and press enter.
 9. The Repository will then be cloned to your selected directory.
 
 
