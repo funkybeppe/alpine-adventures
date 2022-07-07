@@ -153,7 +153,7 @@ All links to external websites must open in a new browser.
 
 Testing of form validation will also be required to ensure the correct inputs are taken and that all fields are required.
 
-The live Project can be found [here](https://funkybeppe.github.io/Alpine-Adventures/)
+The live Project can be found [here](https://funkybeppe.github.io/alpine-adventures/)
 
 ### Tests Performed
 
