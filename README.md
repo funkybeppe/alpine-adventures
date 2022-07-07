@@ -80,11 +80,15 @@ Due to no JavaScript functionality, the contact forms will not store data.
 
   * This About Us page explains the mission of the club and includes a table with the pricing and age groups of the lessons.
   * This page shows the users important information they need to know.
+  * We can find a video showing the ski resort and the activities described.
   * There is a Contact Us button which redirects to the Sign Up page.
   * We can also find a gallery section which gives a visual feedback to the users.
 
 
 ![Screenshot 2022-06-27 at 10 45 06](https://user-images.githubusercontent.com/105980082/175913073-4f12af44-a78e-49c9-81eb-6214125305c5.png)
+
+<img width="1289" alt="Screenshot 2022-07-07 at 13 39 08" src="https://user-images.githubusercontent.com/105980082/177777088-de473b45-0a29-438c-ac87-df8a25c6a95b.png">
+
 
 ![Screenshot 2022-06-27 at 10 47 27](https://user-images.githubusercontent.com/105980082/175913612-2f1bcf1b-7fb6-467a-ad7a-dc2e88daf99f.png)
 
@@ -279,7 +283,8 @@ The content of this website was created by Luca Barbero
 
 ## Media
 
-* [Pexels](https://www.pexels.com/)
+* Pictures taken from [Pexels](https://www.pexels.com/)
+* The [video](https://www.youtube.com/watch?v=5O-CC7yjXtA) was taken from [YouTube](https://www.youtube.com/) from [Travel Time](https://www.youtube.com/c/KrzysztofPietrowski) channel
 
 ## Acknowledgements
 
