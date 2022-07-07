@@ -233,10 +233,10 @@ As this project was developed on the master branch, all changes made to the repo
 2. Install the applicable [GitPod](https://gitpod.io/) Browser Extensions for your chosen browser.
 3. Create a [GitHub](https://github.com/) account.
 4. Log in to [Gitpod](https://gitpod.io/) using your GitHub account.
-5. Visit Alpine Adventures's [GitHub Repository](https://github.com/funkybeppe/Alpine-Adventures).
+5. Visit Alpine Adventures's [GitHub Repository](https://github.com/funkybeppe/alpine-adventures).
 6. Open the repository in Gitpod:
   * Click the green "Gitpod" icon at the top of the Repository, or
-  * Click this [link](https://funkybeppe.github.io/Alpine-Adventures/).
+  * Click this [link](https://funkybeppe.github.io/alpine-adventures/).
 7. A new workspace will open with the current state of the master branch. Any changes made to the master branch after this point will not be automatically updated in your Gitpod Workspace.
 
 
@@ -244,20 +244,20 @@ As this project was developed on the master branch, all changes made to the repo
 
 ### Cloning the Repository
 
-1. Visit Alpine-Adventures's [GitHub Repository](https://github.com/funkybeppe/Alpine-Adventures).
+1. Visit alpine-adventures's [GitHub Repository](https://github.com/funkybeppe/alpine-adventures).
 2. Click the "Code" dropdown box above the repository's file explorer.
 3. Under the "Clone" heading, click the "HTTPS" sub-heading.
-4. Click the clipboard icon, or manually copy the text presented: <mark>https://GitHub.com/funkybeppe/Alpine-Adventures.git</mark>
+4. Click the clipboard icon, or manually copy the text presented: <mark>https://GitHub.com/funkybeppe/alpine-adventures.git</mark>
 5. Open your preferred IDE (VSCode, Atom, PyCharm, etc).
 6. Ensure your IDE has support for Git, or has the relevant Git extension.
 7. Open the terminal, and create a directory where you would like the Repository to be stored.
-8. Type <mark>git clone</mark> and paste the previously copied text <mark>https://GitHub.com/funkybeppe/Alpine-Adventures.git</mark> and press enter.
+8. Type <mark>git clone</mark> and paste the previously copied text <mark>https://GitHub.com/funkybeppe/alpine-adventures.git</mark> and press enter.
 9. The Repository will then be cloned to your selected directory.
 
 
 ### Manually Downloading the Repository
 
-1. Visit Alpine-Adventures's [GitHub Repository](https://github.com/funkybeppe/Alpine-Adventures).
+1. Visit alpine-adventures's [GitHub Repository](https://github.com/funkybeppe/alpine-adventures).
 2. Click the "Code" dropdown box above the repository's file explorer.
 3. Click the "Download ZIP" option; this will download a copy of the selected branch's repository as a zip file.
 4. Locate the ZIP file downloaded to your computer, and extract the ZIP to a designated folder which you would like the repository to be stored.
@@ -269,7 +269,7 @@ As this project was developed on the master branch, all changes made to the repo
 2. Navigate to the chosen directory where the Repository was Cloned/Extracted.
 3. You will now have offline access to the contents of the project.
 
-The live link can be found here - [Alpine Adventure](https://funkybeppe.github.io/Alpine-Adventures/)
+The live link can be found here - [Alpine Adventure](https://funkybeppe.github.io/alpine-adventures/)
 
 # Credits
 
